@@ -18,6 +18,6 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
   h2 {
-    font-size: 54px;
+    font-size: 40px;
   }
 `;
